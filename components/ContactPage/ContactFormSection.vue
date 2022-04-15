@@ -65,6 +65,10 @@
                     </div>
                 </div>
 
+                <!-- Re Capcha -->
+
+                <div data-netlify-recaptcha="true"></div>
+
                 <!-- Submit Button -->
 
                 <div class="my-5 w-fit mx-auto">
