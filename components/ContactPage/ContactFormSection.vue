@@ -8,7 +8,7 @@
 
             <form class="lg:w-3/6 md:w-2/3 sm:w-5/6 mx-auto py-20" name="contact" action="/" method="POST" data-netlify="true">
 
-                <input type="hidden" name="contact" value="contact">
+                <input type="hidden" name="form-name" value="contact">
 
                 <!-- Name Label & Input -->
                 <div class="mx-auto my-5">
