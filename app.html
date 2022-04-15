@@ -5,63 +5,18 @@
   </head>
   <body {{ BODY_ATTRS }}>
 
-    <form class="lg:w-3/6 md:w-2/3 sm:w-5/6 mx-auto py-20" name="contact" netlify netlify-honeypot="bot-field" hidden>
+    <form name="contact" netlify netlify-honeypot="bot-field" hidden>
 
 
-        <!-- Name Label & Input -->
-        <div class="mx-auto my-5">
-            <div class="mb-5">
-                <label class=" font-semibold text-2xl" for="name">Name</label>
-            </div>
+        <input type="text" name="name" required>
 
-            <div class="mx-auto">
-                <input class="w-full h-14 border-2 border-cyan-500 rounded-lg px-5 text-black" type="text" name="name" required>
-            </div>
-        </div>
+        <input type="text" name="company">
 
-        <!-- Company Label & Input -->
-        <div class="mx-auto my-5">
-            <div class="mb-5">
-                <label class=" font-semibold text-2xl" for="company">Company</label>
-            </div>
+        <input type="email" name="email" required>
 
-            <div class="mx-auto">
-                <input class="w-full h-14 border-2 border-cyan-500 rounded-lg px-5 text-black" type="text" name="company">
-            </div>
-        </div>
+        <input type="number" name="phone" required>
 
-        <!-- Email Label & Input -->
-        <div class="mx-auto my-5">
-            <div class="mb-5">
-                <label class=" font-semibold text-2xl" for="email">Email</label>
-            </div>
-
-            <div class="mx-auto">
-                <input class="w-full h-14 border-2 border-cyan-500 rounded-lg px-5 text-black" type="email" name="email" required>
-            </div>
-        </div>
-
-        <!-- Phone Label & Input -->
-        <div class="mx-auto my-5">
-            <div class="mb-5">
-                <label class=" font-semibold text-2xl" for="phone">Phone</label>
-            </div>
-
-            <div class="mx-auto">
-                <input class="w-full h-14 border-2 border-cyan-500 rounded-lg px-5 text-black" type="number" name="phone" required>
-            </div>
-        </div>
-
-        <!-- Message Label & Input -->
-        <div class="mx-auto my-5">
-            <div class="mb-5">
-                <label class=" font-semibold text-2xl" for="message">Tell us a little about your project</label>
-            </div>
-
-            <div class="mx-auto">
-                <textarea class="w-full h-32 border-2 border-cyan-500 rounded-lg px-5 text-black" name="message" required></textarea>
-            </div>
-        </div>
+        <textarea name="message" required></textarea>
 
         
         
