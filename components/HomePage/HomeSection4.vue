@@ -29,7 +29,7 @@
               The peak of the partnership model
             </span>
 
-            <span class="block text-xl">
+            <span class="block text-lg italic">
               Our analysis comes with long term sustainability and effectiveness that aim for not only the production phase but also the market speculation. Revenue operation and fiscal roadmap are crucial for any business and we always prefer to be a part of it by becoming the right hand for combining the production and consumer end points. This gets more feasible with white label solutions we can bring to the table for enhancing the business model for a constructive vision. 
             </span>
           </h2>
@@ -52,7 +52,7 @@
               Offer you to evaluate
             </span>
 
-            <span class="block text-xl">
+            <span class="block text-lg italic">
               As an offshore company, building credibility takes quite a time and to start off, we simply demonstrate our expertise with an evaluation phase. This provides the option to test out our efficiency in a broader sense and accumulate the elements of a workflow in any given project.  
             </span>
           </h2>
@@ -75,7 +75,7 @@
               Breaking the Comms barrier
             </span>
 
-            <span class="block text-xl">
+            <span class="block text-lg italic">
               Email mechanism certainly helps for sharing the ideas and formulating the steps ahead but scheduled meetings are part of the core elements to showcase demos and nourish the requirements for practical implementations. We assign resources who deliver the progress with proper communication and a dedicated project manager who understands your point of view with no barriers in language proficiency. 
             </span>
           </h2>
