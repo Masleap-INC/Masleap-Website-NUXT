@@ -19,7 +19,7 @@
 
             <div class="self-center">
 
-                <iframe class="mx-auto lg:w-2/3 md:w-5/6 sm:w-5/6" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60408.983300409425!2d-77.41638408497428!3d39.3681438598578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9d98f7707bb2b%3A0x47880217861ceef9!2sWestview%20Urgent%20Care%20Medi%20Center!5e0!3m2!1sen!2sbd!4v1644915785602!5m2!1sen!2sbd" width="" height="450" style="border:0;" allowfullscreen="true" loading="lazy"></iframe>
+                <iframe class="mx-auto lg:w-2/3 md:w-5/6 sm:w-5/6" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14604.135401773074!2d90.3948831!3d23.7818089!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4bcbeefefc1e04f!2sMasLeap%20Inc!5e0!3m2!1sen!2sbd!4v1655472204027!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
             </div>
 
