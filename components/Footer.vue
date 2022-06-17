@@ -38,15 +38,15 @@
 
                     <h2 class=" text-center text-lg text-white">
 
-                        <span class="block text-3xl mb-10 font-semibold">Site Links</span>
+                        <span class="block text-3xl mb-10 font-semibold">SITE LINKS</span>
 
-                        <span class="block mt-5"><router-link to="/">Services</router-link></span>
+                        <span class="block mt-5"><NuxtLink to="/Services">SERVICES</NuxtLink></span>
 
-                        <span class="block mt-5"><router-link to="/">About Us</router-link></span>
+                        <span class="block mt-5"><NuxtLink to="/AboutUs">ABOUT US</NuxtLink></span>
 
-                        <span class="block mt-5"><router-link to="/">Our Works</router-link></span>
+                        <span class="block mt-5"><NuxtLink to="/OurWorks">OUR WORKS</NuxtLink></span>
 
-                        <span class="block mt-5"><router-link to="/">Careers</router-link></span>
+                        <!-- <span class="block mt-5"><NuxtLink to="/">CAREERS</NuxtLink></span> -->
 
 
                     </h2>
@@ -59,11 +59,11 @@
 
                     <h2 class=" text-center text-lg text-white">
 
-                        <span class="block text-3xl mb-10 font-semibold">Locations</span>
+                        <span class="block text-3xl mb-10 font-semibold">LOCATIONS</span>
 
-                        <span class="block mt-5"><router-link to="/">Maryland</router-link></span>
+                        <span class="block mt-5"><NuxtLink to="/MarylandOfficeLocation">MARYLAND</NuxtLink></span>
 
-                        <span class="block mt-5"><router-link to="/">Dhaka</router-link></span>
+                        <span class="block mt-5"><NuxtLink to="/DhakaOfficeLocation">DHAKA</NuxtLink></span>
 
                     </h2>
 
@@ -73,7 +73,7 @@
 
                 <div class="mx-auto py-10">
 
-                    <h2 class="block mx-auto text-center text-white text-3xl mb-10 font-semibold">Get Our Newsletter</h2>
+                    <h2 class="block mx-auto text-center text-white text-3xl mb-10 font-semibold">GET OUR NEWSLETTER</h2>
                     <form class="mx-auto " action="">
 
                         <input class="block w-full mx-auto bg-white p-2 rounded-lg text-left" placeholder="example@example.com" type="email">
@@ -92,7 +92,7 @@
 <script>
 
     export default {
-        name: "Footer",
+        name: "SiteFooter",
     }
 
 </script>

@@ -4,19 +4,19 @@
 
   <section>
     <div class="bg-gradient-to-r from-cyan-500 to-blue-500 w-full">
-      <div class="lg:grid lg:grid-cols-2">
+      <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto">
         <div
           class="
             self-center
             lg:py-10 lg:pr-5
             text-left
-            lg:justify-self-end lg:w-2/3
+            lg:justify-self-end lg:w-full
             sm:w-5/6 sm:justify-self-center sm:py-20 sm:mx-5
           "
         >
-          <h2 class="text-4xl font-bold text-white sm:mx-auto sm:justify-self-center">
-            <span class="block pb-5 text-base font-medium text-white"
-              >Customized Software Solutions</span
+          <h2 class="text-4xl font-bold text-white sm:mx-auto sm:justify-self-center w-full">
+            <span class="block pb-5 text-lg font-medium text-white"
+              >Custom Software Solutions</span
             >
             <span class="block"
               >Web & Mobile Application for Industry Level Enhancement</span
@@ -27,7 +27,7 @@
             >
 
             <span class="block w-auto">
-              <button class="h-auto w-auto border-2 border-white p-3 rounded-lg text-white text-lg hover:bg-gray-100 hover:text-black hover:ease-in-out duration-700 lg:mt-3 sm:mt-3">
+              <button class="h-auto w-auto border-2 border-white p-3 rounded-lg text-white text-lg hover:bg-gray-100 hover:text-cyan-500 hover:ease-in-out duration-700 lg:mt-3 sm:mt-3">
                 Book a Free Call
               </button>
             </span>
@@ -38,8 +38,9 @@
         <div
           class="
             items-center
-            lg:py-20 lg:pl-3 lg:w-5/6 lg:h-auto
-            md:w-2/3
+            h-fit my-auto
+            lg:py-20 lg:pl-3 lg:w-full
+            md:w-5/6
             sm:w-full sm:py-5 sm:px-5 sm:mx-auto
           "
         >

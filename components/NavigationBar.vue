@@ -5,9 +5,21 @@
 
             <!-- Brand -->
 
-            <div class=" w-auto h-auto mx-auto px-5">
-                <img class=" w-14 h-auto mx-2 inline-block" src="../assets/masleap-header-logo.png" alt="">
-                <h3 class="text-white text-xl self-center font-bold antialiased inline-block"> Masleap INC</h3>
+            <div class=" grid grid-cols-3 gap-2 w-fit h-auto mx-auto px-2">
+
+                <div class="w-fit mx-auto">
+
+                    <img class="w-14 h-auto block" src="../assets/masleap-header-logo.png" alt="">
+
+                </div>
+
+                <div class=" col-span-2 h-fit my-auto">
+
+                    <h3 class="float-left text-white text-3xl self-center font-semibold block  "> Masleap</h3>
+
+                </div>
+                
+                
             </div>
 
             <!-- Navigation Menu -->
@@ -15,15 +27,15 @@
             <div class="w-auto mx-auto px-5 hidden lg:flex">
                 <ul class="inline-block text-white text-lg font-semibold w-auto">
 
-                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/">Home</NuxtLink></li>
+                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/">HOME</NuxtLink></li>
 
-                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/Services">Services</NuxtLink></li>
+                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/Services">SERVICES</NuxtLink></li>
 
-                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/AboutUs">About Us</NuxtLink></li>
+                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/AboutUs">ABOUT US</NuxtLink></li>
 
-                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/OurWorks">Our Works</NuxtLink></li>
+                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/OurWorks">OUR WORKS</NuxtLink></li>
 
-                    <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/Careers">Careers</NuxtLink></li>
+                    <!-- <li class="inline-block mx-5 hover:scale-110 duration-300"><NuxtLink to="/Careers">CAREERS</NuxtLink></li> -->
                 </ul>
             </div>
 

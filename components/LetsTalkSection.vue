@@ -3,7 +3,7 @@
     <!-- Section 5 -->
 
     <section>
-        <div class="mx-20 mb-5 py-20">
+        <div class="mx-20 mb-5 py-5">
             <div class="lg:grid lg:grid-cols-3">
 
                 <!-- Column 1 -->
@@ -16,10 +16,12 @@
 
                 <div>
                     <h2 class="text-center h-auto w-full">
-                    <span class="block text-2xl font-bold ">Want to build your website or product for scale?</span>
-                    <span class="block text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 text-center my-10">Let's talk about it</span>
-                    <span class="">
-                        <button class="bg-gradient-to-r from-cyan-500 to-blue-500 text-white text-center text-2xl border-2 border-cyan-500 hover:bg-none hover:text-cyan-500 hover:ease-in-out duration-700 py-3 px-5 rounded-2xl shadow-lg">Book a Free Call</button>
+                    <span class="block text-xl text-gray-600 font-bold text-left mb-5 ">Contact us at your convenience so that demand meets productivity</span>
+                    <span class="block text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 text-right mb-10">Let's talk about it</span>
+                    <span class="block">
+                        <NuxtLink to="/Contact">
+                            <button class="bg-gradient-to-r from-cyan-500 to-blue-500 text-white text-center text-2xl border-2 border-cyan-500 hover:bg-none hover:text-cyan-500 hover:ease-in-out duration-700 py-3 px-5 rounded-2xl shadow-lg">Book a Free Call</button>
+                        </NuxtLink>
                     </span>
                     </h2>
                 </div>
