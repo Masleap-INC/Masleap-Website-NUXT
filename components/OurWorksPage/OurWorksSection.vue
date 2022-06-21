@@ -4,7 +4,7 @@
 
         <!-- Service Row 1 -->
 
-        <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto gap-x-10 py-16">
+        <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto gap-x-10 py-10">
 
             <!-- Column 1 -->
 
@@ -41,7 +41,7 @@
 
         <!-- Service Row 2 -->
 
-        <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto gap-x-10 py-16">
+        <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto gap-x-10 py-10">
 
             <!-- Column 1 -->
 
@@ -78,7 +78,7 @@
 
          <!-- Service Row 3 -->
 
-        <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto gap-x-10 py-16">
+        <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto gap-x-10 py-10">
 
             <!-- Column 1 -->
 
