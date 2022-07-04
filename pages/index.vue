@@ -32,6 +32,13 @@
       <HomeSection4 />
     </div>
 
+    <!-- Book A Free Call Section -->
+
+
+      <div>
+        <HomeBookAFreeCall />
+      </div>
+
     <!-- Let's Talk Section -->
 
     <div>
@@ -58,8 +65,9 @@ import HomeSection3 from "../components/HomePage/HomeSection3.vue";
 import HomeSection4 from "../components/HomePage/HomeSection4.vue";
 import LetsTalkSection from "../components/LetsTalkSection.vue";
 import Footer from "../components/Footer.vue";
+import HomeBookAFreeCall from "../components/HomePage/HomeBookAFreeCall.vue";
 export default {
     name: "IndexPage",
-    components: { NavigationBar, HeroSection, HomeSection2, HomeSection3, HomeSection4, Footer, LetsTalkSection }
+    components: { NavigationBar, HeroSection, HomeSection2, HomeSection3, HomeSection4, Footer, LetsTalkSection, HomeBookAFreeCall }
 }
 </script>
