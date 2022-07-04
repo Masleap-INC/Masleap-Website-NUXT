@@ -19,10 +19,8 @@
         <div class="bg-gradient-to-b from-cyan-500 to-blue-500 hover:-translate-y-6 duration-300 mx-auto shadow-lg h-fit w-full border-2 rounded-lg mb-10">
 
           <h2 class="block text-center text-white py-10 px-3 w-fit mx-auto">
-            <span class="block w-fit mx-auto">
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-auto w-32 mx-auto stroke-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z" />
-              </svg>
+            <span class="block w-fit mx-auto mb-5">
+              <img src="https://img.icons8.com/external-icongeek26-outline-icongeek26/150/ffffff/external-handshake-business-and-finance-icongeek26-outline-icongeek26.png"/>
             </span>
 
             <span class="block text-2xl font-semibold pb-5 border-b-2 border-b-white mb-5">
@@ -42,10 +40,8 @@
         <div class="bg-gradient-to-b from-cyan-500 to-blue-500 hover:-translate-y-6 duration-300 mx-auto shadow-lg h-fit w-full border-2 rounded-lg mb-10">
 
           <h2 class="block text-center text-white py-10 px-3 w-fit mx-auto">
-            <span class="block w-fit mx-auto">
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-auto w-32 mx-auto stroke-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z" />
-              </svg>
+            <span class="block w-fit mx-auto mb-5">
+              <img src="https://img.icons8.com/external-outline-geotatah/150/ffffff/external-evaluate-training-management-system-outline-geotatah.png"/>
             </span>
 
             <span class="block text-2xl font-semibold pb-5 border-b-2 border-b-white mb-5">
@@ -65,10 +61,8 @@
         <div class="bg-gradient-to-b from-cyan-500 to-blue-500 hover:-translate-y-6 duration-300 mx-auto shadow-lg h-fit w-full border-2 rounded-lg mb-10">
 
           <h2 class="block text-center text-white py-10 px-3 w-fit mx-auto">
-            <span class="block w-fit mx-auto">
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-auto w-32 mx-auto stroke-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z" />
-              </svg>
+            <span class="block w-fit mx-auto mb-5">
+              <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/150/ffffff/external-communication-marketing-seo-flatart-icons-outline-flatarticons.png"/>
             </span>
 
             <span class="block text-2xl font-semibold pb-5 border-b-2 border-b-white mb-5">

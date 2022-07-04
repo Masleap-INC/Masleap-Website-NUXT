@@ -20,10 +20,11 @@
                     <h2 class="justify-self-center text-center">
                         <span class="block w-2/3 mx-auto min-w-1/3 h-auto"><img class="w-32 h-auto mx-auto" src="../assets/masleap-footer-logo.png" alt=""></span>
 
-                        <span class=" grid grid-cols-3 w-1/2 mx-auto mt-5">
-                            <div class="inline-block w-7 h-auto mx-auto"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/facebook-f.png"/></div>
-                            <div class="inline-block w-7 h-auto mx-auto"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/twitter--v1.png"/></div>
-                            <div class="inline-block w-7 h-auto mx-auto"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin-2--v1.png"/></div>
+                        <span class=" grid grid-cols-4 gap-5 w-40 mx-auto mt-5">
+                            <div class="inline-block w-7 h-auto mx-auto hover:scale-125 duration-300"><a href="https://www.facebook.com/pages/category/Software-Company/105052835051779/"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/facebook-f.png"/></a></div>
+                            <div class="inline-block w-7 h-auto mx-auto hover:scale-125 duration-300"><a href=""><img src="https://img.icons8.com/ios-glyphs/30/ffffff/twitter--v1.png"/></a></div>
+                            <div class="inline-block w-7 h-auto mx-auto hover:scale-125 duration-300"><a href="https://bd.linkedin.com/company/masleap-plc"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin-2--v1.png"/></a></div>
+                            <div class="inline-block w-7 h-auto mx-auto hover:scale-125 duration-300"><a href="https://github.com/Masleap-INC"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/></a></div>
                         </span>
 
                         <span class="block text-white mx-auto mt-5">contact@masleap.io</span>
@@ -40,11 +41,11 @@
 
                         <span class="block text-3xl mb-10 font-semibold">SITE LINKS</span>
 
-                        <span class="block mt-5"><NuxtLink to="/Services">SERVICES</NuxtLink></span>
+                        <span class="block mt-5 hover:underline"><NuxtLink to="/Services">SERVICES</NuxtLink></span>
 
-                        <span class="block mt-5"><NuxtLink to="/AboutUs">ABOUT US</NuxtLink></span>
+                        <span class="block mt-5 hover:underline"><NuxtLink to="/AboutUs">ABOUT US</NuxtLink></span>
 
-                        <span class="block mt-5"><NuxtLink to="/OurWorks">OUR WORKS</NuxtLink></span>
+                        <span class="block mt-5 hover:underline"><NuxtLink to="/OurWorks">OUR WORKS</NuxtLink></span>
 
                         <!-- <span class="block mt-5"><NuxtLink to="/">CAREERS</NuxtLink></span> -->
 
@@ -61,9 +62,9 @@
 
                         <span class="block text-3xl mb-10 font-semibold">LOCATIONS</span>
 
-                        <span class="block mt-5"><NuxtLink to="/MarylandOfficeLocation">MARYLAND</NuxtLink></span>
+                        <span class="block mt-5 hover:underline"><NuxtLink to="/MarylandOfficeLocation">MARYLAND</NuxtLink></span>
 
-                        <span class="block mt-5"><NuxtLink to="/DhakaOfficeLocation">DHAKA</NuxtLink></span>
+                        <span class="block mt-5 hover:underline"><NuxtLink to="/DhakaOfficeLocation">DHAKA</NuxtLink></span>
 
                     </h2>
 

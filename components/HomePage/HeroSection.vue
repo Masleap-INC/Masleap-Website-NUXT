@@ -27,9 +27,13 @@
             >
 
             <span class="block w-auto">
-              <button class="h-auto w-auto border-2 border-white p-3 rounded-lg text-white text-lg hover:bg-gray-100 hover:text-cyan-500 hover:ease-in-out duration-700 lg:mt-3 sm:mt-3">
-                Book a Free Call
-              </button>
+
+              <NuxtLink to="/Contact">
+                <button class="h-auto w-auto border-2 border-white p-3 rounded-lg text-white text-lg hover:bg-gray-100 hover:text-cyan-500 hover:ease-in-out duration-700 lg:mt-3 sm:mt-3">
+                  Book a Free Call
+                </button>
+              </NuxtLink>
+              
             </span>
           </h2>
           
