@@ -48,7 +48,7 @@
             sm:w-full sm:py-5 sm:px-5 sm:mx-auto
           "
         >
-          <img class="max-w-2/3 mx-auto" src="../../assets/hero-img-3.png" alt="" />
+          <img class="max-w-5/6 mx-auto hover:scale-110 duration-300" src="../../assets/hero-img-4.png" alt="" />
         </div>
       </div>
 
