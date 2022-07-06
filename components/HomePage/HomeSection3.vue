@@ -16,30 +16,22 @@
 
       <div class="lg:w-2/3 lg:mb-20 md:w-5/6 sm:w-5/6 mx-auto">
         
-        <div class="lg:grid md:grid sm:grid lg:grid-cols-6 md:grid-cols-3 sm:grid-cols-2 gap-5">
+        <div class="lg:grid md:grid sm:grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-2 gap-5">
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/bdcom_online_logo1.png" alt="">
+            <img class=" w-52 h-auto" src="../../assets/partner-logo/b2i.png" alt="">
           </div>
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/ineedahand.png" alt="">
+            <img class=" w-52 h-auto" src="../../assets/partner-logo/bkpe.png" alt="">
           </div>
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/brac-300x169.jpg" alt="">
+            <img class=" w-52 h-auto" src="../../assets/partner-logo/daceit.png" alt="">
           </div>
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class="w-32 h-auto" src="../../assets/partner-logo/ebl-300x93.jpg" alt="">
-          </div>
-        
-          <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/Ecobank_Logo_EN1-300x148.png" alt="">
-          </div>
-
-          <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/image.png" alt="">
+            <img class=" w-52 h-auto" src="../../assets/partner-logo/jurorsearch.png" alt="">
           </div>
 
         </div>
@@ -49,30 +41,22 @@
       <!-- Partners logo section 2 -->
 
       <div class="lg:w-2/3 lg:mb-20 md:w-5/6 sm:w-5/6 mx-auto ">
-        <div class="lg:grid md:grid sm:grid lg:grid-cols-6 md:grid-cols-3 sm:grid-cols-2 gap-5">
+        <div class="lg:grid md:grid sm:grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-2 gap-10">
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/arbico1-300x300.png" alt="">
+            <img class=" w-52 h-auto" src="../../assets/partner-logo/mycologypsychology.png" alt="">
           </div>
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/kludio-300x225.jpg" alt="">
+            <img class=" w-52 h-auto" src="../../assets/partner-logo/nubizsolution.png" alt="">
           </div>
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/labaid.png" alt="">
+            <img class=" w-52 h-auto" src="../../assets/partner-logo/skyfort.png" alt="">
           </div>
 
           <div class="mx-auto h-auto w-auto my-auto">
-            <img class="w-32 h-auto" src="../../assets/partner-logo/renewit360-1.png" alt="">
-          </div>
-        
-          <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/titlesoft.jpg" alt="">
-          </div>
-
-          <div class="mx-auto h-auto w-auto my-auto">
-            <img class=" w-32 h-auto" src="../../assets/partner-logo/ulab-300x102.png" alt="">
+            <img class="w-52 h-auto" src="../../assets/partner-logo/titlesoft.jpg" alt="">
           </div>
 
         </div>
