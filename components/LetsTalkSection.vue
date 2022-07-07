@@ -40,7 +40,7 @@
 
         <div class="bg-[url('~/assets/world-map.png')] bg-fixed bg-center bg-contain bg-no-repeat h-full w-full lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto">
 
-            <div class="bg-white bg-opacity-90 h-full w-full py-32">
+            <div class="bg-white bg-opacity-75 h-full w-full py-32">
 
                 <h2 class="text-center w-fit mx-auto">
 
