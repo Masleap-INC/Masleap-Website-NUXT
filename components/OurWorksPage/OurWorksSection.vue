@@ -111,7 +111,44 @@
             </div>
 
         </div>
-        
+
+<!-- 
+        Service Row 4
+
+        <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto gap-x-10 py-10">
+
+            Column 1
+
+            <div class=" my-auto lg:order-1">
+
+                <h2 class="">
+
+                    <span class="block font-bold text-4xl text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 mb-5">BLACK KNIGHT PERFORMANCE ENGINEERING</span>
+                    <span class="block text-2xl italic font-light mb-10">An innovative business to deliver your nutritions to your house. Masleap simplified the process by solutions for internal subscription for each user under one booking portal. It enables the user to check on the subscription models with regional sales tax on their orders and gives the feasibility of accounting for the client with the integration of QuickBooks application.</span>
+
+                    
+                    <span class="block font-bold text-4xl text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 mb-5">TECHNOLOGY</span>
+                    <span class="block text-2xl italic font-semibold mb-10">Nuxt JS, Django</span>
+
+
+                    <span class="block font-bold text-4xl text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 mb-5">PROJECT DEMO</span>
+                    <span class="block text-2xl italic text-blue-600 mb-10 md:mb-20 sm:mb-20"> <a href="https://bkpe.netlify.app/">https://bkpe.netlify.app/</a></span>
+
+
+                </h2>
+
+            </div>
+
+            Column 2
+
+            <div class="w-full my-auto">
+
+                <img src="../../assets/ourworks/bkpe.png" alt="">
+
+            </div>
+
+        </div>
+         -->
 
     </section>
 
