@@ -4,14 +4,14 @@
 
   <section>
     <div class="bg-gradient-to-r from-cyan-500 to-blue-500 w-full">
-      <div class="lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto">
+      <div class="bg-[url('~/assets/hero-bg-2.png')] bg-center bg-no-repeat lg:grid lg:grid-cols-2 lg:w-2/3 md:w-5/6 sm:w-5/6 mx-auto">
         <div
           class="
             self-center
             lg:py-10 lg:pr-5
             text-left
             lg:justify-self-end lg:w-full
-            sm:w-5/6 sm:justify-self-center sm:py-20 sm:mx-5
+            sm:w-5/6 sm:justify-self-center sm:pt-20 sm:pb-10 sm:mx-5
           "
         >
           <h2 class="text-4xl font-bold text-white sm:mx-auto sm:justify-self-center w-full">
@@ -48,7 +48,7 @@
             sm:w-full sm:py-5 sm:px-5 sm:mx-auto
           "
         >
-          <img class="max-w-5/6 mx-auto hover:scale-110 duration-300" src="../../assets/hero-img-4.png" alt="" />
+          <img class="w-full mx-auto hover:scale-110 duration-300" src="../../assets/hero-img-9.png" alt="" />
         </div>
       </div>
 
